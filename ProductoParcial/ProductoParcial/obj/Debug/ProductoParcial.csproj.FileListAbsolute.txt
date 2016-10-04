@@ -1,0 +1,6 @@
+C:\Users\julian\Desktop\ProductoParcial\ProductoParcial\bin\Debug\ProductoParcial.exe.config
+C:\Users\julian\Desktop\ProductoParcial\ProductoParcial\obj\Debug\ProductoParcial.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\ProductoParcial\ProductoParcial\bin\Debug\ProductoParcial.exe
+C:\Users\julian\Desktop\ProductoParcial\ProductoParcial\bin\Debug\ProductoParcial.pdb
+C:\Users\julian\Desktop\ProductoParcial\ProductoParcial\obj\Debug\ProductoParcial.exe
+C:\Users\julian\Desktop\ProductoParcial\ProductoParcial\obj\Debug\ProductoParcial.pdb

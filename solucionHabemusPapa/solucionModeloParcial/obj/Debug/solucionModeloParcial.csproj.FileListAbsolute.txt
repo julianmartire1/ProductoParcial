@@ -1,0 +1,9 @@
+C:\Users\Juan Martin\Desktop\Facultad\Modelos primer parcial\solucionHabemusPapa\solucionModeloParcial\bin\Debug\solucionModeloParcial.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Modelos primer parcial\solucionHabemusPapa\solucionModeloParcial\obj\Debug\solucionModeloParcial.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Modelos primer parcial\solucionHabemusPapa\solucionModeloParcial\bin\Debug\solucionModeloParcial.exe
+C:\Users\Juan Martin\Desktop\Facultad\Modelos primer parcial\solucionHabemusPapa\solucionModeloParcial\bin\Debug\solucionModeloParcial.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Modelos primer parcial\solucionHabemusPapa\solucionModeloParcial\obj\Debug\solucionModeloParcial.exe
+C:\Users\Juan Martin\Desktop\Facultad\Modelos primer parcial\solucionHabemusPapa\solucionModeloParcial\obj\Debug\solucionModeloParcial.pdb
+C:\Users\julian\Desktop\solucionHabemusPapa\solucionModeloParcial\bin\Debug\solucionModeloParcial.exe.config
+C:\Users\julian\Desktop\solucionHabemusPapa\solucionModeloParcial\obj\Debug\solucionModeloParcial.exe
+C:\Users\julian\Desktop\solucionHabemusPapa\solucionModeloParcial\obj\Debug\solucionModeloParcial.pdb
